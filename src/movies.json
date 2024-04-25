@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "subtitle": "Your mind is the scene of the crime",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "image": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "rating": 8.8
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "subtitle": "Why So Serious?",
+    "description": "When the menace known as The Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "title": "The Shawshank Redemption",
+    "subtitle": "Fear can hold you prisoner. Hope can set you free.",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "rating": 9.3
+  },
+  {
+    "id": 6,
+    "title": "The Godfather",
+    "subtitle": "An offer you can't refuse.",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "rating": 9.2
+  }
+]
